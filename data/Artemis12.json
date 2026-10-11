@@ -1,0 +1,19 @@
+{
+    "id": 149018717,
+    "name": "Artemis 12",
+    "author": "MrSwagSoda",
+    "creators": ["MrSwagSoda"],
+    "verifier": "AGDP",
+    "type": "Short",
+    "verification": "https://youtu.be/0mSprKRkHzs",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gweogd",
+            "link": "https://youtu.be/GJFH4kxnB5s?si=sGFbIz0TNK5etXPv",
+            "percent": 100,
+            "hz": "9/19/2026"
+        }
+    ]
+}
